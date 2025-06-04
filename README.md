@@ -17,18 +17,21 @@ This repository contains my learning materials and slides for mastering the Java
 ## Contents
 
 - [01-Introduction.pptx](01-Introduction.pptx): Introduction to Java and OOP concepts  
-- [02A(reading)-Get Start.pptx](02A(reading)-Get Start.pptx): Java history, features, environment setup  
-- [02B-Learning the Java Language.pptx](02B-Learning the Java Language.pptx): Data types, variables, operators, control flow  
-- [02C(reading)-Numbers and Strings.pptx](02C(reading)-Numbers and Strings.pptx): Wrapper classes, string manipulation, Math class  
-- [02D-Exception Handling.pptx](02D-Exception Handling.pptx): Exception types, try-catch-finally, custom exceptions  
-- [02E-Memory Management in Java.pptx](02E-Memory Management in Java.pptx): Heap vs stack, garbage collection  
-- [03-Encapsulation.pptx](03-Encapsulation.pptx): Class design, encapsulation, getters and setters  
-- [04-Inheritance.pptx](04-Inheritance.pptx): Superclass-subclass relationships, method inheritance  
-- [05-Polymorphism.pptx](05-Polymorphism.pptx): Overloading and overriding methods  
-- [06A-ArrayOfObjects.pptx](06A-ArrayOfObjects.pptx): Managing objects in arrays  
-- [06B-File IO.pptx](06B-File IO.pptx): Reading and writing files in Java  
-- [07A-Collections.pptx](07A-Collections.pptx): Lists, Sets, Maps in Java Collections Framework  
-- [07B(reading)-Support Classes.pptx](07B(reading)-Support Classes.pptx): Utility functions in Collections and Arrays classes  
+- [02A-Get Start.pptx](02A-Get Start.pptx): Java history, features, and development setup  
+- [02B-Learning the Java Language.pptx](02B-Learning the Java Language.pptx): Syntax, data types, variables, operators  
+- [02C-Numbers and Strings.pptx](02C-Numbers and Strings.pptx): Wrapper classes, Math operations, string handling  
+- [02D-Exception Handling.pptx](02D-Exception Handling.pptx): Error types, try-catch-finally, custom exceptions  
+- [02E-Memory Management in Java.pptx](02E-Memory Management in Java.pptx): Heap, stack, and garbage collection  
+- [03-Classes and Objects.ppt](03-Classes and Objects.ppt): Class design, object creation, methods and fields  
+- [03-Encapsulation.pptx](03-Encapsulation.pptx): Data hiding, access modifiers, setters/getters  
+- [04-Inheritance.pptx](04-Inheritance.pptx): Superclasses, subclassing, `super`, `instanceof`  
+- [04-More on Classes and Nested Classes.ppt](04-More on Classes and Nested Classes.ppt): Inner classes, local and anonymous classes  
+- [05-Interface, Inheritance & Enum.ppt](05-Interface, Inheritance & Enum.ppt): Interfaces, enums, and multiple inheritance concepts  
+- [05-Polymorphism.pptx](05-Polymorphism.pptx): Method overloading and overriding  
+- [06A-ArrayOfObjects.pptx](06A-ArrayOfObjects.pptx): Arrays of custom objects, object management  
+- [06B-File IO.pptx](06B-File IO.pptx): Reading/writing text and binary files  
+- [07A-Collections.pptx](07A-Collections.pptx): Java Collections Framework – List, Set, Map  
+- [07B-Support Classes.pptx](07B-Support Classes.pptx): Utility classes – sorting, searching, and more
 
 ---
 
